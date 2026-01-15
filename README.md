@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 Hi, I'm Maruf Jamil
 
-<!--
-**marufjamil333/marufjamil333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML Engineer & Researcher focused on Generative AI, Machine Learning, and Model Deployment.
+I build production-ready AI systems and explore research-driven solutions.
 
-Here are some ideas to get you started:
+🔧 Skills
+- Machine Learning & Deep Learning
+- Generative AI
+- Model Deployment
+- Python, FastAPI
+- SQL, Backend Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Connect with me
+LinkedIn: https://www.linkedin.com/in/marufjamil/
