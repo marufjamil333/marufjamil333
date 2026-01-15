@@ -33,43 +33,17 @@ I build production-ready AI systems and explore research-driven solutions.
 
 ---
 
-generative-ai-ml-api/
-│
-├── app/                     # Application layer (FastAPI)
-│   ├── main.py               # FastAPI entry point
-│   ├── api/                  # API routes
-│   │   ├── __init__.py
-│   │   └── predict.py
-│   ├── core/                 # Config & settings
-│   │   └── config.py
-│   ├── models/               # Loaded ML models
-│   │   └── model_loader.py
-│   ├── schemas/              # Request/response schemas
-│   │   └── prediction.py
-│   └── services/             # Business logic
-│       └── inference_service.py
-│
-├── ml/                       # ML & research work
-│   ├── data/
-│   │   └── sample_data.csv
-│   ├── notebooks/            # Research & experiments
-│   │   └── experimentation.ipynb
-│   ├── training/
-│   │   └── train_model.py
-│   ├── evaluation/
-│   │   └── evaluate_model.py
-│   └── saved_models/
-│       └── model.pkl
-│
-├── tests/                    # Unit & API tests
-│   └── test_api.py
-│
-├── requirements.txt
-├── .gitignore
-├── README.md
-└── docker-compose.yml        # (optional but impressive)
+### 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=marufjamil333&theme=onedark&margin-w=15)
 
+--- 
+### 📈 Contribution Activity
+![Maruf's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=marufjamil333&theme=github-compact)
 
+---
+![Profile Views](https://komarev.com/ghpvc/?username=marufjamil333&label=Profile%20Views&color=0e75b6&style=flat)
+
+---
 
 ### 📫 Connect with Me
 🔗 LinkedIn: https://www.linkedin.com/in/marufjamil/
